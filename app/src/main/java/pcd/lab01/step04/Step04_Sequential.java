@@ -5,7 +5,7 @@ public class Step04_Sequential {
 	public static void main(String[] args) throws Exception {
 		
 		/* square matrix */
-		int size = 1000;
+		int size = 1600;
 		
 		int n = size; /* num rows mat A */
 		int k = size; /* num columns mat A = num rows mat B */

@@ -7,7 +7,7 @@ public class BallViewer extends Thread {
     private boolean stop;
     private Context context;
     private ViewerFrame frame;
-    private static final int FRAMES_PER_SEC = 25;
+    private static final int FRAMES_PER_SEC = 120;
     
     public BallViewer(Context context){
         stop = false;

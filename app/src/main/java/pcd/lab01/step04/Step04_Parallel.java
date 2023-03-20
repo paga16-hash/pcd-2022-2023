@@ -3,7 +3,7 @@ package pcd.lab01.step04;
 public class Step04_Parallel {
 
 	public static void main(String[] args) throws Exception {
-		int size = 1000;
+		int size = 1600;
 		int n = size; 
 		int k = size; 
 		int m = size; 

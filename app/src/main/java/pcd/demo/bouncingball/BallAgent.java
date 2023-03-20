@@ -30,7 +30,7 @@ public class BallAgent extends Thread {
 	        while (!stop){
 	            updatePos();
 	            // log("pos updated: "+pos);
-	            Thread.sleep(5);	
+	            Thread.sleep(3);
 	        }
         } catch (Exception ex){
             ex.printStackTrace();
